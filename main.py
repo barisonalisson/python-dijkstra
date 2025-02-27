@@ -1,4 +1,3 @@
-# main.py
 from dijkstra import Dijkstra
 
 def main():
